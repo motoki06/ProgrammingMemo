@@ -105,9 +105,4 @@ HashMap クラスは Map インターフェースを実装したクラスの一�
     }
     ```
 
-やりたいこと：検討中リスト（bookmarklist）に含まれる要素（会社名、職種名、応募用URL）を取得する  
-bookmarkListを取得し、listの何番目にアクセスするかを指定して、かつの値を取得する。
 
-- bookmarklist[何番目].company_name
-- bookmarklist[何番目].job_name
-- bookmarklist[何番目].url
